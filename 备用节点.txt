@@ -1,0 +1,39 @@
+地址1 ssr1.wasn.gq 端口 31614 密码 920107 加密方式 chacha20 协议插件 auth_sha1_v4 混淆插件 tls1.2_ticket_auth，kcptun端口:31615 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3  东京
+
+地址2 ssr2.wasn.gq 端口 31310 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31311 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3  东京
+
+地址3 ssr3.wasn.gq 端口 31975 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31976 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3  大阪
+
+地址4 ssr4.wasn.gq 端口 31938 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple  东京
+
+地址5 ssr5.wasn.gq 端口 31385 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31386 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3  东京
+
+地址6 ssr6.wasn.gq 端口 31312 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31313 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3  东京
+
+地址7 ssr7.wasn.gq 端口 31263 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31519 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 东京
+
+地址8 ssr8.wasn.gq 端口 31443 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple  香港
+
+地址9 ssr9.wasn.gq 端口 31682 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31189 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3  首尔
+
+地址10 ssr10.wasn.gq 端口 31074 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31128 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 东京
+
+地址11 ssr11.wasn.gq 端口 31791 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31792 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 大阪
+
+
+地址1 jp.wacc.ga 端口 53,137,138,8080,8989 密码 920107 加密方式 chacha20 协议插件 auth_sha1_v4 混淆插件 tls1.2_ticket_auth，kcptun端口:29900 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3  东京
+
+地址2 us.wacc.ga 端口 53,137,138,8080,8989 密码 920107 加密方式 chacha20 协议插件 auth_sha1_v4 混淆插件 tls1.2_ticket_auth，kcptun端口:29900 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 旧金山  
+
+地址3 sg.wacc.ga 端口 53,137,138,8080,8989 密码 920107 加密方式 chacha20 协议插件 auth_sha1_v4 混淆插件 tls1.2_ticket_auth，kcptun端口:29900 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 新加坡
+
+地址4 nl.wacc.ga 端口 53,137,138,8080,8989 密码 920107 加密方式 chacha20 协议插件 auth_sha1_v4 混淆插件 tls1.2_ticket_auth，kcptun端口:29900 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 阿姆斯特
+
+地址5 cn.wacc.ga 端口 53,137,138,8080,8989 密码 920107 加密方式 chacha20 协议插件 auth_sha1_v4 混淆插件 tls1.2_ticket_auth，kcptun端口:29900 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 国内电信
+
+
+地址12 ssr12.wasn.gq 端口 31880 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple 大阪
+
+地址13 ssr13.wasn.gq 端口 31555 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple 东京
+
+地址14 ssr14.wasn.gq 端口 31979 密码 920107 加密方式 rc4-md5 协议插件 auth_sha1 混淆插件 http_simple，kcptun端口:31980 密码:920107 加密方式:aes 监听端口:8989 sndwnd:1024 rcvwnd:1024 mode:fast mtu:1350 dscp:0 datashard:10 parityshard:3 大阪
